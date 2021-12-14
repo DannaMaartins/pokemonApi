@@ -1,0 +1,49 @@
+[
+    {
+      "id": 1,
+      "name": "Charizard",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+      "abilities": "Blaze",
+      "category": "Flame"
+      
+      
+    },
+    {
+      "id": 2,
+      "name": "Vaporeon",
+      "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png",
+      "abilities": "Water Absorb",
+      "category": "Bubble Jet"
+       
+      
+    },
+    {
+        "id": 3,
+        "name": "Vaporeon",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png",
+        "abilities": "Water Absorb",
+        "category": "Bubble Jet"
+         
+        
+      },
+      {
+        "id": 4,
+        "name": "Jolteon",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png",
+        "abilities": "Volt Absorb",
+        "category": "Lightning"
+         
+        
+      },
+      {
+        "id": 5,
+        "name": "Flareon",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png",
+        "abilities": "Flash Fire",
+        "category": "Flame"
+         
+        
+      }
+    
+    
+  ]
