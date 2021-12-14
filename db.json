@@ -20,7 +20,7 @@
     {
         "id": 3,
         "name": "Jolteon",
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png",
         "abilities": "Lightning",
         "category": "Volt Absorb"
          
@@ -29,7 +29,7 @@
       {
         "id": 4,
         "name": "Flareon",
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png",
         "abilities": "Flash Fire",
         "category": "Flame"
          
