@@ -19,28 +19,28 @@
     },
     {
         "id": 3,
-        "name": "Vaporeon",
+        "name": "Jolteon",
         "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png",
-        "abilities": "Water Absorb",
-        "category": "Bubble Jet"
+        "abilities": "Lightning",
+        "category": "Volt Absorb"
          
         
       },
       {
         "id": 4,
-        "name": "Jolteon",
+        "name": "Flareon",
         "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png",
-        "abilities": "Volt Absorb",
-        "category": "Lightning"
+        "abilities": "Flash Fire",
+        "category": "Flame"
          
         
       },
       {
         "id": 5,
-        "name": "Flareon",
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png",
-        "abilities": "Flash Fire",
-        "category": "Flame"
+        "name": "Mewtwo",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
+        "abilities": "Pressure",
+        "category": "Genetic"
          
         
       }
